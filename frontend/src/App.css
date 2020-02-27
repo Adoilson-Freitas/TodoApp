@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(90deg, rgba(0,4,36,0.09882747068676712) 0%, rgba(126,22,22,0.17420435510887777) 57%, rgba(0,255,246,0.0016750418760469454) 100%);
+}
+
+#description{
+  background-color: rgb(230, 235, 245);
+}
+
+.form {
+  display: inline-flex;
+  padding: 12px;
+}
+
+button {
+  margin: 0 6px;
+}
+
+.markedAsDone {
+  text-decoration: line-through;
+  color: #777;
+}
